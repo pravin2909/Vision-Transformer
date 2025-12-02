@@ -106,5 +106,3 @@ Vision-Transformer/
 - Build a simple web/app interface where users can upload an image and get predictions from the correct model (skin, eye, or tooth).
 
 ---
-
-Update any placeholders (frameworks, scripts, datasets) so that this README matches your actual implementation.
